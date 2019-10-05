@@ -7,7 +7,7 @@ yarn-error.log*
 .idea
 downloads
 artifacts
-# Runtime dat
+# Runtime data
 pids
 *.pid
 *.seed
