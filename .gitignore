@@ -5,7 +5,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .idea
-
+downloads
+artifacts
 # Runtime dat
 pids
 *.pid
